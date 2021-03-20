@@ -21,7 +21,7 @@ ul{
 
 /* header start */
 .header{
-    background: dodgerblue;
+    background: rgb(30, 255, 30);
     min-height: 100vh;
 }
 .header__nav{
